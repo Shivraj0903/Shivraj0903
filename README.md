@@ -58,7 +58,7 @@
 <h3>📬 Connect with Me</h3>
 
 <p align="left">
-  <a href="www.linkedin.com/in/shivraj-kondekar" target="_blank">
+  <a href="https://www.linkedin.com/in/shivraj-kondekar-11a744270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/_s._.h._.i._.v_/" target="_blank">
