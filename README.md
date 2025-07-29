@@ -4,10 +4,9 @@
 ---
 
 - 🔭 I’m currently working on **Data Structures & Algorithms**
-- 🌱 Learning **Full Stack Development** and **System Design**
-- 🧠 Preparing for SDE Interviews — aiming to crack product-based companies
+- 🌱 **Full Stack Development** and **System Design**
 - 💬 Ask me about **C++, DSA, HTML/CSS, JavaScript, React**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **shivrajkondekar123.com**
 - ⚡ Fun fact: I’m addicted to improving logic through code!
 
 ---
@@ -59,7 +58,7 @@
 <h3>📬 Connect with Me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/shivraj-kondekar-11a744270/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/your-handle" target="_blank">
