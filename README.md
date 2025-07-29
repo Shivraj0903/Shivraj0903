@@ -58,17 +58,17 @@
 <h3>📬 Connect with Me</h3>
 
 <p align="left">
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/shivraj-kondekar-11a744270/)" target="_blank">
+  <a href="www.linkedin.com/in/shivraj-kondekar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/your-handle" target="_blank">
+  <a href="https://www.instagram.com/_s._.h._.i._.v_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" />
   </a>
-  <a href="https://www.hackerrank.com/your-handle" target="_blank">
+  <a href="https://www.hackerrank.com/profile/shivrajkondekar1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?logo=hackerrank&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-⭐️ Don’t forget to **follow** and ⭐️ some of my projects!
+
