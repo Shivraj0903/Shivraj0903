@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **Data Structures & Algorithms**
 - 🌱 **Full Stack Development** and **System Design**
-- 💬 Ask me about **C++, DSA, HTML/CSS, JavaScript, React**
 - 📫 Reach me at: **shivrajkondekar123@gmail.com**
 - ⚡ Fun fact: I’m addicted to improving logic through code!
 
