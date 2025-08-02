@@ -54,7 +54,7 @@
 
 ---
 
-<h3>📬 Connect with Me</h3>
+<h3>📬 Connect with Me :)</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shivraj-kondekar-11a744270/" target="_blank">
